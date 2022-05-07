@@ -17,7 +17,7 @@ created by [@majiinbju](https://github.com/majiinbju)
 > Built using [Kirby CMS](https://getkirby.com/) Plainkit
 ---
 ### `🪪` LICENSE
-> The Black Lodge is [MIT licensed](https://github.com/majiinbju/joga/blob/main/LICENSE)
+> The Black Lodge is [MIT licensed](LICENSE.md)
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
