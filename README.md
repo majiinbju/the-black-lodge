@@ -1,21 +1,19 @@
-# ____The Black Lodge____
+# `🎞` `THE BLACK LODGE`
 
-## About
+![The Black Lodge – Landing Page](assets/readme/banner.png)
 
-A movie review/analysis website built for Dan.
+> website built for Dan to curate and catalogue movie reviews and analysis
+---
 
-## Code + Files 🗄
+## `🍿 SUMMARY`
+> the website adopts themes from the famous show *Twin Peaks* and offers  the writer an opportunity to curate their movie analyses for themselves
 
-← `README.md`: Documentation of the project ✏️
+### `⚜️` `DESIGN + DEV`
+> designed by in sketch<br>
+> coded in HTML/CSS/JS<br>
+> made with [Kirby CMS](https://getkirby.com/)<br>
 
-← `index.html`: Built as a single page website, with one stylesheet. 📝
+created by [@majiinbju](https://github.com/majiinbju)
 
-← `assets`: Images + Typefaces + Favicon + CSS + JS 🖼
-
-← `style.css`: Stylesheets detailing every bit of the website, arranged visually. 🌈
-
-← `script.js`: JS Functions 👾
-
-
-## ___Website designed and developed by Vivek Bajaj___
-
+### `🪪` `LICENSE`
+> The Black Lodge is [MIT licensed](https://github.com/majiinbju/joga/blob/main/LICENSE)
