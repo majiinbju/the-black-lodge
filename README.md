@@ -1,4 +1,4 @@
-# `🎞` `THE BLACK LODGE`
+# `🎥` `THE BLACK LODGE`
 
 ![The Black Lodge – Landing Page](assets/readme/banner.png)
 
