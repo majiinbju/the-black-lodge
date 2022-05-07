@@ -6,6 +6,7 @@
 ---
 
 ## `🍿` ABOUT
+> ![The Black Lodge – Landing Page](assets/readme/about.gif)
 > the website adopts themes from the famous show *Twin Peaks* and offers  the writer an opportunity to curate their movie analyses for themselves
 
 ### `⚜️` DESIGN + DEV
