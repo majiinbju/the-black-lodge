@@ -1,4 +1,5 @@
 <h1 align="center">🎥 THE BLACK LODGE</h1>
+
 > ![The Black Lodge – Landing Page](assets/readme/banner.png)<br>
 website built for Dan to curate and catalogue movie reviews and analysis
 ---
