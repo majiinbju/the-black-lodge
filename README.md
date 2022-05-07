@@ -17,3 +17,8 @@ created by [@majiinbju](https://github.com/majiinbju)
 
 ### `🪪` `LICENSE`
 > The Black Lodge is [MIT licensed](https://github.com/majiinbju/joga/blob/main/LICENSE)
+---
+> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
+> [email](mailto:hi@vivekbajaj.design)
